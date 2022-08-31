@@ -1,4 +1,4 @@
-## Projeto DIO Modelo ER E-commerce
+## Projeto DIO - 1º Modelo ER E-commerce
 Modelo ER de E-commerce
 
 ### Levantamento de requisitos/narrativa:
